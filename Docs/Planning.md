@@ -19,3 +19,9 @@
 
 - ゴール
     - [WIXで作っていたポートフォリオ](https://itoseiya.wixsite.com/itoseiya-portfolio)を移植する
+
+## トンマナ
+
+- 躍動感がある
+- 技術力が伝わる
+- 人柄、明るさが分かる
