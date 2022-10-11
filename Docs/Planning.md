@@ -9,7 +9,7 @@
     - 年内に完成
 
 - サイトを作成することで期待する効果
-    - HTML CSS JavaScriptでコーディングが出来る事をアピールできる
+    - JavaScriptでコーディングが出来る事をアピールできる
     - 自分のゲーム制作スキル、コーディングスキルをアピールできる
 
 ## ペルソナの設定
@@ -18,7 +18,7 @@
     - 企業の人事やエンジニア全体
 
 - ゴール
-    - [WIXで作っていたポートフォリオ](https://itoseiya.wixsite.com/itoseiya-portfolio)を移植する
+    - [WIXで作っていたポートフォリオ](https://itoseiya.wixsite.com/itoseiya-portfolio)をJavaScriptを使って拡張する
 
 ## トンマナ
 
